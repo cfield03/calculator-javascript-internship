@@ -1,0 +1,23 @@
+/*changing layout for calculator container*/
+.calculator{
+    border: black solid 2px;
+    width: 200px;
+}
+
+/*calculator display  */
+.display{
+    padding: 25px;
+}
+
+/* changing display for the calculator*/
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    width:200px;
+    margin-top: 100px;
+}
+
+button{
+    height:50px;
+    width:50px;
+}
